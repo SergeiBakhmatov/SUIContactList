@@ -15,6 +15,7 @@
 		7748D6CC2A5BDC0700ACEFBB /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7748D6CB2A5BDC0700ACEFBB /* Person.swift */; };
 		7748D6CE2A5BDE3E00ACEFBB /* ContactListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7748D6CD2A5BDE3E00ACEFBB /* ContactListView.swift */; };
 		7748D6D02A5BDFB900ACEFBB /* PersonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7748D6CF2A5BDFB900ACEFBB /* PersonView.swift */; };
+		7748D6D22A5BE3BC00ACEFBB /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7748D6D12A5BE3BC00ACEFBB /* SectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		7748D6CB2A5BDC0700ACEFBB /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		7748D6CD2A5BDE3E00ACEFBB /* ContactListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactListView.swift; sourceTree = "<group>"; };
 		7748D6CF2A5BDFB900ACEFBB /* PersonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonView.swift; sourceTree = "<group>"; };
+		7748D6D12A5BE3BC00ACEFBB /* SectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				7748D6BB2A5BD8A800ACEFBB /* ContentView.swift */,
 				7748D6CD2A5BDE3E00ACEFBB /* ContactListView.swift */,
 				7748D6CF2A5BDFB900ACEFBB /* PersonView.swift */,
+				7748D6D12A5BE3BC00ACEFBB /* SectionView.swift */,
 				7748D6BD2A5BD8A900ACEFBB /* Assets.xcassets */,
 				7748D6BF2A5BD8A900ACEFBB /* Preview Content */,
 			);
@@ -168,6 +171,7 @@
 				7748D6CE2A5BDE3E00ACEFBB /* ContactListView.swift in Sources */,
 				7748D6BC2A5BD8A800ACEFBB /* ContentView.swift in Sources */,
 				7748D6C82A5BD98200ACEFBB /* DataStore.swift in Sources */,
+				7748D6D22A5BE3BC00ACEFBB /* SectionView.swift in Sources */,
 				7748D6D02A5BDFB900ACEFBB /* PersonView.swift in Sources */,
 				7748D6CC2A5BDC0700ACEFBB /* Person.swift in Sources */,
 				7748D6BA2A5BD8A800ACEFBB /* SUIContactListApp.swift in Sources */,

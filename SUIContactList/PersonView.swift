@@ -35,6 +35,6 @@ struct PersonView: View {
 
 struct PersonView_Previews: PreviewProvider {
     static var previews: some View {
-        PersonView(person: Person(id: 1, name: "Ser", surname: "Bakh", email: "23@mail", phoneNumber: "8888583"))
+        PersonView(person: Person.getContactList().last!)
     }
 }
